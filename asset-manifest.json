@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/weather_app_react/static/css/main.87e999fb.chunk.css",
+    "main.js": "/weather_app_react/static/js/main.07bfd576.chunk.js",
+    "main.js.map": "/weather_app_react/static/js/main.07bfd576.chunk.js.map",
+    "runtime-main.js": "/weather_app_react/static/js/runtime-main.d5a5e770.js",
+    "runtime-main.js.map": "/weather_app_react/static/js/runtime-main.d5a5e770.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/weather_app_react/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.2e0ff236.chunk.js": "/weather_app_react/static/js/2.2e0ff236.chunk.js",
+    "static/js/2.2e0ff236.chunk.js.map": "/weather_app_react/static/js/2.2e0ff236.chunk.js.map",
+    "static/js/3.dbb244a1.chunk.js": "/weather_app_react/static/js/3.dbb244a1.chunk.js",
+    "static/js/3.dbb244a1.chunk.js.map": "/weather_app_react/static/js/3.dbb244a1.chunk.js.map",
+    "index.html": "/weather_app_react/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/weather_app_react/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.87e999fb.chunk.css.map": "/weather_app_react/static/css/main.87e999fb.chunk.css.map",
+    "static/js/2.2e0ff236.chunk.js.LICENSE.txt": "/weather_app_react/static/js/2.2e0ff236.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather_app_react/static/media/pexels-adonyi-gábor-1400142.6d8e203a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5a5e770.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.2e0ff236.chunk.js",
+    "static/css/main.87e999fb.chunk.css",
+    "static/js/main.07bfd576.chunk.js"
+  ]
+}
